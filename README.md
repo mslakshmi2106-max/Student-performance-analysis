@@ -1,2 +1,3 @@
 Project Overview
+
 The Student Performance Analysis System is a project used to analyze student academic performance using synthetic data. It includes details like marks, attendance, and internal scores. The data is processed to calculate total, average, and grades. The project also identifies top and low performers and analyzes performance based on department and gender using graphs. This helps in understanding student performance and improving academic decisions.

@@ -26,3 +26,5 @@ Pandas – for data manipulation and analysis
 NumPy – for generating synthetic data
 Matplotlib – for data visualization
 Seaborn – for advanced graphical representation
+
+Results

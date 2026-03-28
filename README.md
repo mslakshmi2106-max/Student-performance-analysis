@@ -4,6 +4,7 @@ The Student Performance Analysis System is a project used to analyze student aca
 
 
 Objective
+
 The main objective of this project is to develop a Student Performance Analysis System to analyze and understand student academic performance using data analysis techniques.
 This project aims to:
 To generate a synthetic dataset representing student academic records

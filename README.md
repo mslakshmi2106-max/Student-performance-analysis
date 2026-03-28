@@ -16,3 +16,13 @@ To perform department-wise, gender-wise, and year-wise analysis
 To study relationships such as attendance vs marks and internal marks vs performance
 To visualize data using graphs for better understanding
 To derive meaningful insights to improve academic performance
+
+Tools & Technologies Used
+
+The following tools and technologies were used to complete this project:
+Python – for data analysis and processing
+Google Colab – for writing and executing code
+Pandas – for data manipulation and analysis
+NumPy – for generating synthetic data
+Matplotlib – for data visualization
+Seaborn – for advanced graphical representation

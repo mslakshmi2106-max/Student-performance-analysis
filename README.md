@@ -30,8 +30,13 @@ Seaborn – for advanced graphical representation
 Results
 
 250 students dataset successfully generated
+
 Total, average, and grades calculated
+
 Top and low-performing students identified
+
 Department & gender-wise analysis done
+
 Attendance and internal marks affect performance
+
 Graphs used to visualize data

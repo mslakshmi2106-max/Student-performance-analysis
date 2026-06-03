@@ -40,3 +40,4 @@ Department & gender-wise analysis done
 Attendance and internal marks affect performance
 
 Graphs used to visualize data
+<img width="610" height="454" alt="image" src="https://github.com/user-attachments/assets/ae75c1bc-8b5d-437c-9d5f-7a5323b6bbe0" />

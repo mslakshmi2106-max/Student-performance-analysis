@@ -41,3 +41,4 @@ Attendance and internal marks affect performance
 
 Graphs used to visualize data
 <img width="610" height="454" alt="image" src="https://github.com/user-attachments/assets/ae75c1bc-8b5d-437c-9d5f-7a5323b6bbe0" />
+<img width="576" height="386" alt="image" src="https://github.com/user-attachments/assets/886d449d-4c52-4183-980b-b01486bc48a5" />

@@ -43,4 +43,6 @@ Graphs used to visualize data
 <img width="851" height="491" alt="image" src="https://github.com/user-attachments/assets/73fccc88-9b66-4f05-8403-2c32b2308c87" />
 <img width="576" height="386" alt="image" src="https://github.com/user-attachments/assets/886d449d-4c52-4183-980b-b01486bc48a5" />
 <img width="818" height="448" alt="image" src="https://github.com/user-attachments/assets/1059e44f-3829-40c5-85ec-e821c0c50935" />
+<img width="776" height="456" alt="Screenshot 2026-06-04 094641" src="https://github.com/user-attachments/assets/730f6447-7e25-4397-997e-9ce41c57341a" />
+
 
